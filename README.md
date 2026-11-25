@@ -50,9 +50,8 @@ Python, pandas, matplotlib, Google Colab
 - **Lost:** use low-cost reactivation only, as expected returns are small.
 
 ## Charts
-<!-- Add 2 or 3 screenshots here, e.g. monthly revenue chart and the segment comparison chart -->
-![Monthly Revenue](images/monthly_revenue.png)
-![Customers vs Revenue by Segment](images/segment_comparison.png)
+![Monthly Revenue](monthly_revenue.png)
+![Customers vs Revenue by Segment](segment_comparison.png)
 
 ## How to Run
 1. Download the dataset from the UCI link above and place `Online Retail.xlsx` in the same folder as the notebook.
